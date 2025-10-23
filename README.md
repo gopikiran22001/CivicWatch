@@ -274,8 +274,8 @@ Report bugs and request features at: [GitHub Issues](https://github.com/gopikira
 
 ## 🌐 Live Demo
 
-- **Frontend**: [CivicWatch Client](https://civicwatch-mrg9.onrender.com)
-- **Backend API**: [CivicWatch API](https://civicwatch-mrg9.onrender.com/api)
+- **Frontend**: [CivicWatch Client](https://neon-kulfi-0f24e3.netlify.app)
+- **Backend API**: [CivicWatch API](https://civicwatch-mrg9.onrender.com)
 
 ---
 
