@@ -16,7 +16,7 @@ const app = express();
 
 // Middleware
 app.use(cors({ 
-  origin: process.env.CLIENT_URL || 'http://localhost:3000',
+  origin: 'https://neon-kulfi-0f24e3.netlify.app' || 'http://localhost:3000',
   credentials: true
 }));
 app.use(express.json());
